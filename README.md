@@ -1,4 +1,4 @@
-RCommerce is a highly customizable, enterprise-ready e-commerce platform built on the nopCommerce framework, featuring a comprehensive admin control panel and a personalized My Account portal for users. The platform allows for full, deep customization of code, design, and functionality, along with built-in security features and a streamlined support funnel. For more details and custom development inquiries, please send a message on LinkedIn. For more details, visit the RCommerce site at https://rcommerce.runasp.net/.  
+RCommerce is a highly customizable, enterprise-ready e-commerce platform , featuring a comprehensive admin control panel and a personalized My Account portal for users. The platform allows for full, deep customization of code, design, and functionality, along with built-in security features and a streamlined support funnel. For more details and custom development inquiries, please send a message on LinkedIn. For more details, visit the RCommerce site at https://rcommerce.runasp.net/.  
 
 Linked in :-
 https://www.linkedin.com/in/rajeshk2023/
